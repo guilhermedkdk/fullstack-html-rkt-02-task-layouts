@@ -1,0 +1,25 @@
+header {
+  text-align: center;
+
+  > :nth-child(1) {
+    color: var(--red);
+    padding-top: 75px;
+    margin-bottom: 8px;
+  }
+
+  > :nth-child(2) {
+    margin-bottom: 8px;
+  }
+
+  > :last-child {
+    margin-bottom: 55px;
+  }
+}
+
+.header-contact {
+  padding-top: 128px;
+
+  > :first-child {
+    color: var(--purple);
+  }
+}

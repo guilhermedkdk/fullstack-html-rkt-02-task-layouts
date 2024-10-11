@@ -1,0 +1,46 @@
+.grid {
+  display: grid;
+}
+
+.grid-flow-col {
+  grid-auto-flow: column;
+}
+
+.grid-flow-row {
+  grid-auto-flow: row;
+}
+
+.title-lg {
+  font: var(--title-lg);
+  color: var(--gray-600);
+}
+
+.title-md {
+  font: var(--title-md);
+  color: var(--gray-600);
+}
+
+.title-sm {
+  font: var(--title-sm);
+  color: var(--gray-600);
+}
+
+.text-md {
+  font: var(--text-md);
+  color: var(--gray-500);
+}
+
+.text-sm {
+  font: var(--text-sm);
+  color: var(--gray-500);
+}
+
+.text-sm-intro {
+  font: var(--text-sm);
+  color: var(--gray-400);
+}
+
+.subtitle {
+  font: var(--subtitle);
+  color: var(--gray-500);
+}
