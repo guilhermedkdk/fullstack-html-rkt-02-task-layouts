@@ -2,9 +2,10 @@ header {
   text-align: center;
 
   > :nth-child(1) {
-    color: var(--red);
     padding-top: 75px;
     margin-bottom: 8px;
+
+    color: var(--red);
   }
 
   > :nth-child(2) {
