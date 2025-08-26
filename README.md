@@ -7,7 +7,6 @@ Uma página de portfólio fictício feito como forma de um desafio do curso Full
 <p align="center">
 <a href="https://guilhermedkdk.github.io/page-portfolio-challenge/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#-desafio">💻 Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-aprendizados">📚 Aprendizados</a>
 </p>
 
@@ -22,10 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 - FIGMA
-
-## 💻 Desafio
-
-O "Dev Portfolio" foi um desafio do curso Fullstack da Rocketseat no módulo "Avançando HTML e CSS". Onde consolidei conhecimentos sobre CSS avançado, como Display Flex, responsividade, variáveis e pseudo-elementos.
 
 ## 📚 Aprendizados
 
