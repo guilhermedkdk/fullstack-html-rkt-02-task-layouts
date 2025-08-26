@@ -1,7 +1,7 @@
 <h1 align="center"> Desafio - Dev Portfolio </h1>
 
 <p align= "center">
-Uma página de portfólio fictício feito como forma de um desafio do curso Fullstack da Rocketseat
+Uma página de portfólio fictício feita como forma de um desafio do curso Fullstack da Rocketseat
 </p>
 
 <p align="center">
