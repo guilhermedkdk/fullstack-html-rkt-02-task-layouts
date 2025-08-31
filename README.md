@@ -28,7 +28,7 @@ Este projeto foi feito como forma de um desafio dentro do curso de Fullstack no 
 
 ### CSS
 - Display Flex
-- Responsividade
 - Variáveis
 - Alinhamentos
 - Pseudo-classes e pseudo-elements
+- Responsividade
